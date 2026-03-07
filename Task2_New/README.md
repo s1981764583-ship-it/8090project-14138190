@@ -1,7 +1,7 @@
 # Task2: Self-studied New Data Structure + New Algorithm
 ## Selection Description
-- **New Data Structure**: Max Heap (the course only covers stack, queue, binary search tree, not heap)
-- **New Algorithm**: Heap Sort (the course only covers merge/selection/bubble/pigeonhole sort, not heap sort)
+- **New Data Structure**
+- **New Algorithm**
 
 ### Module Description
 1. heap_ds.py: Self-implemented Max Heap ADT, implement core methods of heap (insert, extract max, heapify, etc.)
