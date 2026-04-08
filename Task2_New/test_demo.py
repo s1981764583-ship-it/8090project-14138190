@@ -20,3 +20,5 @@ if __name__ == "__main__":
     ]
     for case in test_cases:
         print(f"Original: {case} → Sorted: {heap_sort(case)}")
+    print("\nPress Enter to exit...")
+    input()
