@@ -7,20 +7,19 @@ This repository contains the complete code and documentation for the COMP 8090SE
 2.  **Task 2**: Self-studied new data structure (Max Heap) + new algorithm (Heap Sort), which are not covered in the course curriculum
 
 ## Repository Structure
+- **Task1_OOP_Application/**: Task 1 Complete Code
+  - counselor_module.py: Counselor class definition
+  - student_module.py: Student abstract base class & subclasses
+  - consultation_module.py: Core system business logic
+  - main.py: System entry point (console + GUI)
 
-8090project-14138190/
-├── Task1_OOP_Application/ # Task 1 Complete Code
-│ ├── counselor_module.py # Counselor class definition
-│ ├── student_module.py # Student abstract base class & subclasses
-│ ├── consultation_module.py # Core system business logic
-│ └── main.py # System entry point (console + GUI)
-├── Task2_New/ # Task 2 Complete Code
-│ ├── heap_ds.py # Max Heap data structure implementation
-│ ├── heap_sort.py # Heap Sort algorithm implementation
-│ └── test_demo.py # Test script for heap & sort
-├── .gitattributes
-├── .gitignore
-└── README.md # User Guide & Project Documentation
+- **Task2_New/**: Task 2 Complete Code
+  - heap_ds.py: Max Heap data structure implementation
+  - heap_sort.py: Heap Sort algorithm implementation
+  - test_demo.py: Test script for heap & sort
+
+- **Other Files**:
+  - .gitattributes, .gitignore, README.md
 
 
 ---
