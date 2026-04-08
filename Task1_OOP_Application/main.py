@@ -24,7 +24,7 @@ if __name__ == "__main__":
     print("===== HKMU Campus Psychological Counseling System (Pre-submission Version) =====")
     system = init_consultation_system()
     print("\n【1. Counselor List】")
-    for c in system._ConsultationSystem__counselors:
+    for c in system.get_all_counselors():
         print(c)
     print("\n【2. Student Appointment Demo】")
     print(system.make_appointment("S003", "Emotion Regulation", "2026-03-10 14:00"))

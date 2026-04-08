@@ -7,6 +7,8 @@ class ConsultationSystem:
         self.__counselors = []
         self.__students = []
         self.__appointments = []
+    def get_all_counselors(self):
+        return self.__counselors.copy()
 
     def add_counselor(self, counselor):
         if isinstance(counselor, Counselor) and counselor not in self.__counselors:
