@@ -49,4 +49,4 @@ This repository contains the complete code and documentation for the COMP 8090SE
 ---
 
 ## 5-Minute Project Introduction Video Link
-
+https://drive.google.com/drive/folders/1H46kef35r5iy_qjA9Yi0RP4wxs8Aczb9
